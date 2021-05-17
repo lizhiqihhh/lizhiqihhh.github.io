@@ -14,8 +14,7 @@ I received the B.E. degree from Nanjing University of Aeronautics and Astronauti
 
 Selected Publications
 =====
-| -------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="F:\fig\pipeline\fig1.png" style="zoom:80%;" /> | **NormalF-Net: Normal Filtering Neural Network for Feature-preserving Mesh Denoising<br />Zhiqi Li,** Yingkui Zhang , Yidan Feng a, Xingyu Xie c, Qiong Wangb,Mingqiang Wei,<br/>Pheng-Ann Heng |
+| **NormalF-Net: Normal Filtering Neural Network for Feature-preserving Mesh Denoising<br />Zhiqi Li,** Yingkui Zhang , Yidan Feng a, Xingyu Xie c, Qiong Wangb,Mingqiang Wei,<br/>Pheng-Ann Heng |
 
 
 
