@@ -10,8 +10,7 @@ redirect_from:
 
 I am currently a first-year Ph.D. student with [National Center for Computer Animation](https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation), Bournemouth University, supervised by  Dr. Xiaosong Yang and co-supervised by Professor JianJun Zhang. 
 
-I received the B.E. degree from Nanjing University of Aeronautics and Astronautics. My research interests include 3D computer vision, scene flow estimation and geometry processing.
-
+I received the B.E. degree from Nanjing University of Aeronautics and Astronautics. 
 My research interests include: (1) **3D Computer Vision**: 3D scene understanding, 3D scene flow estimation. (2) **Computer Graphics**: mesh denoising, geometry processing.
 
 <style>
@@ -73,7 +72,7 @@ ________________________________________________________________________________
 </div>
 <div class="intership">
       <ul>
-         <li>Participant, <a>Data study group, Alan Turing Institute</a>, UK, April 2021.</li>
+         <li>Participant in challenge <strong>Odin Vision</strong>, Data study group,<a href="https://www.turing.ac.uk/events/data-study-group-april-2021"> Alan Turing Institute</a>, UK, April 2021.</li>
       </ul>
 </div>
 
