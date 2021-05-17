@@ -31,7 +31,7 @@ ________________________________________________________________________________
                 <tbody>
 	          <tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/normalf-net.pdf" border="0">
+                        <img width="320" src="../images/fig1.png" border="0">
                             </td>
                     <td>
 	                    <b>NormalF-Net: Normal filtering neural network for feature-preserving mesh denoising</b>
