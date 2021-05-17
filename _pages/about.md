@@ -31,7 +31,7 @@ ________________________________________________________________________________
                 <tbody>
 	          <tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/FS3DSS_framework.png" border="0">
+                        <img width="320" src="../images/normalf-net.pdf" border="0">
                             </td>
                     <td>
 	                    <b>NormalF-Net: Normal filtering neural network for feature-preserving mesh denoising</b>
@@ -45,10 +45,10 @@ ________________________________________________________________________________
                 </tr>
 	          <tr>
                     <td width="40%">
-                        <img width="320" src="../images/SESS_teaser.png" border="0">
+                        <img width="320" src="../images/cnf.gif" border="0">
                             </td>
                     <td>
-	                    <b>SESS: Self-Ensembling Semi-Supervised 3D Object Detection </b>
+	                    <b>Cascaded Normal Filtering Neural Network for Geometry-aware Mesh Denoising of Measurement Surfaces</b>
 	                    <br>
 	                    Dingkun Zhu, Yingkui Zhang, <strong>Zhiqi Li</strong>, Weiming Wang, Haoran Xie, Mingqiang Wei, Gary Cheng, Fu Lee Wang.
 	                    <br>
