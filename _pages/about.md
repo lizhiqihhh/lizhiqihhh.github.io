@@ -13,11 +13,10 @@ I am currently a first-year Ph.D. student with [National Center for Computer Ani
 I received the B.E. degree from Nanjing University of Aeronautics and Astronautics. My research interests include 3D computer vision, scene flow estimation and geometry processing.
 
 Selected Publications
-======
-|                                                          |                                                              |
+=====
 | -------------------------------------------------------- | ------------------------------------------------------------ |
 | <img src="F:\fig\pipeline\fig1.png" style="zoom:80%;" /> | **NormalF-Net: Normal Filtering Neural Network for Feature-preserving Mesh Denoising<br />Zhiqi Li,** Yingkui Zhang , Yidan Feng a, Xingyu Xie c, Qiong Wangb,Mingqiang Wei,<br/>Pheng-Ann Heng |
-|                                                          |                                                              |
+
 
 
 
@@ -26,8 +25,6 @@ Academic Experience
 1.  Undergraduate intern, A*STAR, Singapore
 1.  Data study group, Alan Turing Institute
 
-Teaching Assistant
-------
 
 
 
