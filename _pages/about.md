@@ -73,7 +73,7 @@ ________________________________________________________________________________
 </div>
 <div class="intership">
       <ul>
-         <li>Participant. <a>Data study group, Alan Turing Institute</a>, UK, April 2021.</li>
+         <li>Participant, <a>Data study group, Alan Turing Institute</a>, UK, April 2021.</li>
       </ul>
 </div>
 
