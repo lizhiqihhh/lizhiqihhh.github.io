@@ -12,17 +12,73 @@ I am currently a first-year Ph.D. student with [National Center for Computer Ani
 
 I received the B.E. degree from Nanjing University of Aeronautics and Astronautics. My research interests include 3D computer vision, scene flow estimation and geometry processing.
 
-Selected Publications
-=====
-| **NormalF-Net: Normal Filtering Neural Network for Feature-preserving Mesh Denoising<br />Zhiqi Li,** Yingkui Zhang , Yidan Feng a, Xingyu Xie c, Qiong Wangb,Mingqiang Wei,<br/>Pheng-Ann Heng |
+My research interests include: (1) **3D Computer Vision**: 3D scene understanding, 3D scene flow estimation. (2) **Computer Graphics**: mesh denoising, geometry processing.
+
+<style>
+table, th, td {
+  border: none;
+  border-collapse: collapse;
+}
+</style>
+
+_______________________________________________________________________________________________________
+<h3>
+  <a name="Publications"></a> Selected Publications
+</h3>
+
+ <font face="helvetica, ariel, &#39;sans serif&#39;">
+            <table cellspacing="0" cellpadding="0" class="noBorder">
+                <tbody>
+	          <tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/FS3DSS_framework.png" border="0">
+                            </td>
+                    <td>
+	                    <b>NormalF-Net: Normal filtering neural network for feature-preserving mesh denoising</b>
+	                    <br>
+	                    <strong>Zhiqi Li</strong>,Yingkui Zhang, Yidan Feng, Xingyu Xie, Qiong Wang, Mingqiang Wei, Pheng-Ann Heng. 
+	                    <br>
+	                    <em>Computer-Aided Design (2020) </em>
+	                    <br>
+			    [<a href="https://doi.org/10.1016/j.cad.2020.102861">Paper</a>]
+                    </td>
+                </tr>
+	          <tr>
+                    <td width="40%">
+                        <img width="320" src="../images/SESS_teaser.png" border="0">
+                            </td>
+                    <td>
+	                    <b>SESS: Self-Ensembling Semi-Supervised 3D Object Detection </b>
+	                    <br>
+	                    Dingkun Zhu, Yingkui Zhang, <strong>Zhiqi Li</strong>, Weiming Wang, Haoran Xie, Mingqiang Wei, Gary Cheng, Fu Lee Wang.
+	                    <br>
+	                    <em>IEEE Transactions on Instrumentation and Measurement, 2021 </em>
+	                    <br>
+			 [<a href="https://ieeexplore.ieee.org/document/9360624">Paper</a>]
+                    </td>
+                </tr>
+            	</tbody>
+            </table>
+</font>
+
+_______________________________________________________________________________________________________
+
+<h3>
+  <a name="intership"></a> Academic Experience
+</h3>
+<div class="intership">
+      <ul>
+         <li>Undergraduate intern, A*STAR, Singapore, August 2019 - October 2019.</li>
+      </ul>
+</div>
+<div class="intership">
+      <ul>
+         <li>Participant. <a>Data study group, Alan Turing Institute</a>, UK, April 2021.</li>
+      </ul>
+</div>
 
 
 
-
-Academic Experience
-======
-1.  Undergraduate intern, A*STAR, Singapore
-1.  Data study group, Alan Turing Institute
 
 
 
