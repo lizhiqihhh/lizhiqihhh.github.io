@@ -8,7 +8,8 @@ venue: 'Computer-Aided Design'
 paperurl: 'https://doi.org/10.1016/j.cad.2020.102861'
 
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We propose a novel normal filtering neural network, which the first subnetwork is responsible for denoising and the second subnetwork refines normals for better feature preservation. Our NormalF-Net bridges the connection between CNNs and geometry domain knowledge of nonlocal Similarity. Meanwhile, other learning-based geometric processing tasks may benefit from our well-formatted NPNMs.
+
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0010448520300543)
 
