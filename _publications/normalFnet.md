@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0010448520300543)
 
-Recommended citation: Zhiqi, Li. (2020). "NormalF-Net: Normal Filtering Neural Network for Feature-preserving Mesh Denoising" <i>Computer-Aided Design, 2020, 127: 102861</i>. 1(1).
+Recommended citation: Zhiqi, Li. (2020). "NormalF-Net: Normal Filtering Neural Network for Feature-preserving Mesh Denoising" <i>Computer-Aided Design</i>. 2020, 127: 102861.
