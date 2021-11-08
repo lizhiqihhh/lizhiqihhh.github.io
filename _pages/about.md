@@ -75,6 +75,11 @@ ________________________________________________________________________________
          <li>Participant in challenge <strong>Odin Vision</strong>, Data study group,<a href="https://www.turing.ac.uk/events/data-study-group-april-2021"> Alan Turing Institute</a>, UK, April 2021.</li>
       </ul>
 </div>
+<div class="intership">
+      <ul>
+         <li>Participant in challenge <strong>OSNI</strong>, Turing-LIDA DSG 2021,<a href="https://lida.leeds.ac.uk/partnerships/lida-partners/the-alan-turing-institute/turing-data-study-group-at-lida/call-for-researcher-participants/"> Alan Turing Institute</a>, UK, July 2021.</li>
+      </ul>
+</div>
 
 <a href="https://clustrmaps.com/site/1biv7"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=qv-SrbWjrImNRLSA9kPE8zvlhd6ggV1tmAR0PlpqNBk&cl=ffffff" /></a>
 
