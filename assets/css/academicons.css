@@ -14,6 +14,10 @@
     font-weight: normal;
     font-style: normal;
 }
+/*@font-face{
+	font-family: 'Roboto Slab', serif;
+	src: url()
+}*/
 .ai {
 	display:inline-block;
 	font:normal normal normal 14px/1 Academicons;
