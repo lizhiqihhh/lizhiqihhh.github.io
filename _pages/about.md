@@ -80,6 +80,11 @@ ________________________________________________________________________________
          <li>Participant in challenge <strong>OSNI</strong>, Turing-LIDA DSG 2021,<a href="https://lida.leeds.ac.uk/partnerships/lida-partners/the-alan-turing-institute/turing-data-study-group-at-lida/call-for-researcher-participants/"> Alan Turing Institute</a>, UK, July 2021.</li>
       </ul>
 </div>
+<div class="Summer School">
+      <ul>
+         <li>Excited to attend the Eastern European Machine Learning Summer School in Vilnius, Lithuania 🇱🇹,<a href="https://www.eeml.eu"> EEML 2022</a>, July 2022.</li>
+      </ul>
+</div>
 
 <a href="https://clustrmaps.com/site/1biv7"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=qv-SrbWjrImNRLSA9kPE8zvlhd6ggV1tmAR0PlpqNBk&cl=ffffff" /></a>
 
