@@ -85,7 +85,11 @@ ________________________________________________________________________________
          <li>Excited to attend the Eastern European Machine Learning Summer School in Vilnius, Lithuania 🇱🇹,<a href="https://www.eeml.eu"> EEML 2022</a>, July 2022.</li>
       </ul>
 </div>
-
+<div class="Turing PhD Enrichment Scheme">
+<ul>
+         <li>Excited to receive the Enrichment Placement Award. I will join the Alan Turing PhD Enrichment Scheme in January 2023 ,<a href="https://www.turing.ac.uk/work-turing/studentships/enrichment"> Alan Turing Enrichment 2022-2023</a>, Oct 2022.</li>
+      </ul>
+</div>
 <a href="https://clustrmaps.com/site/1biv7"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=qv-SrbWjrImNRLSA9kPE8zvlhd6ggV1tmAR0PlpqNBk&cl=ffffff" /></a>
 
 
