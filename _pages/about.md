@@ -28,6 +28,34 @@ ________________________________________________________________________________
  <font face="helvetica, ariel, &#39;sans serif&#39;">
             <table cellspacing="0" cellpadding="0" class="noBorder">
                 <tbody>
+		<tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/graphical abstract.tif" border="0">
+                            </td>
+                    <td>
+	                    <b>Deep Learning for Scene Flow Estimation on Point Clouds: A Survey and Prospective Trends</b>
+	                    <br>
+	                    <strong>Zhiqi Li</strong>, Nan Xiang, Honghua Chen, Jianjun Zhang, Xiaosong Yang. 
+	                    <br>
+	                    <em>Computer Graphics Forum (in-press) </em>
+	                    <br>
+			    [<a href="10.1111/cgf.14795">Paper</a>]
+                    </td>
+                </tr>
+		<tr>
+                    <td width="40%">
+                        <img width="320" src="../images/cnf.gif" border="0">
+                            </td>
+                    <td>
+	                    <b>Cascaded Normal Filtering Neural Network for Geometry-aware Mesh Denoising of Measurement Surfaces</b>
+	                    <br>
+	                    Dingkun Zhu, Yingkui Zhang, <strong>Zhiqi Li</strong>, Weiming Wang, Haoran Xie, Mingqiang Wei, Gary Cheng, Fu Lee Wang.
+	                    <br>
+	                    <em>IEEE Transactions on Instrumentation and Measurement, 2021 </em>
+	                    <br>
+			 [<a href="https://ieeexplore.ieee.org/document/9360624">Paper</a>]
+                    </td>
+                </tr>
 	          <tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/fig1.png" border="0">
@@ -42,20 +70,7 @@ ________________________________________________________________________________
 			    [<a href="https://doi.org/10.1016/j.cad.2020.102861">Paper</a>]
                     </td>
                 </tr>
-	          <tr>
-                    <td width="40%">
-                        <img width="320" src="../images/cnf.gif" border="0">
-                            </td>
-                    <td>
-	                    <b>Cascaded Normal Filtering Neural Network for Geometry-aware Mesh Denoising of Measurement Surfaces</b>
-	                    <br>
-	                    Dingkun Zhu, Yingkui Zhang, <strong>Zhiqi Li</strong>, Weiming Wang, Haoran Xie, Mingqiang Wei, Gary Cheng, Fu Lee Wang.
-	                    <br>
-	                    <em>IEEE Transactions on Instrumentation and Measurement, 2021 </em>
-	                    <br>
-			 [<a href="https://ieeexplore.ieee.org/document/9360624">Paper</a>]
-                    </td>
-                </tr>
+	        
             	</tbody>
             </table>
 </font>
