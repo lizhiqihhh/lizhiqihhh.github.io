@@ -37,7 +37,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <strong>Zhiqi Li</strong>, Nan Xiang, Honghua Chen, Jianjun Zhang, Xiaosong Yang. 
 	                    <br>
-	                    <em>Computer Graphics Forum (in-press) </em>
+	                    <em>Computer Graphics Forum (in-press), 2023 </em>
 	                    <br>
 			    [<a href="10.1111/cgf.14795">Paper</a>]
                     </td>
