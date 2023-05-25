@@ -30,7 +30,7 @@ ________________________________________________________________________________
                 <tbody>
 		<tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/graphical abstract.tif" border="0">
+                        <img width="320" src="../images/Vis_Abstract_002.jpeg" border="0">
                             </td>
                     <td>
 	                    <b>Deep Learning for Scene Flow Estimation on Point Clouds: A Survey and Prospective Trends</b>
