@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student with [National Center for Computer Animation](https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation), Bournemouth University, supervised by  Dr. Xiaosong Yang and co-supervised by Professor JianJun Zhang. 
+I am currently a Ph.D. student with [National Center for Computer Animation](https://www.bournemouth.ac.uk/about/our-faculties/faculty-media-communication/national-centre-computer-animation), Bournemouth University, supervised by Prof. Xiaosong Yang and co-supervised by Prof. JianJun Zhang. 
 
 I received the B.E. degree from Nanjing University of Aeronautics and Astronautics. 
 My research interests include: (1) **3D Computer Vision**: 3D scene understanding, 3D scene flow estimation. (2) **Computer Graphics**: mesh denoising, geometry processing.
