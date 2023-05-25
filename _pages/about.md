@@ -25,7 +25,7 @@ ________________________________________________________________________________
   <a name="Publications"></a> Selected Publications
 </h3>
 
- <font face="helvetica, ariel, &#39;sans serif&#39;">
+ <font face="charter, ariel, &#39;charter&#39;">
             <table cellspacing="0" cellpadding="0" class="noBorder">
                 <tbody>
 		<tr>
