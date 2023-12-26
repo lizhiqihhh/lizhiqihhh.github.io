@@ -30,6 +30,20 @@ ________________________________________________________________________________
                 <tbody>
 		<tr>
                     <td class="noBorder" width="40%">
+                        <img width="320" src="../images/teaser_GAMAFlow.png" border="0">
+                            </td>
+                    <td>
+	                    <b>GAMAFLOW: ESTIMATING 3D SCENE FLOW VIA GROUPED ATTENTION AND GLOBAL MOTION AGGREGATION</b>
+	                    <br>
+	                    <strong>Zhiqi Li</strong>, Xiaosong Yang, Jianjun Zhang. 
+	                    <br>
+	                    <em>IEEE ICASSP, 2024 </em>
+	                    <br>
+			    
+                    </td>
+                </tr>
+		<tr>
+                    <td class="noBorder" width="40%">
                         <img width="320" src="../images/Vis_Abstract_002.jpeg" border="0">
                             </td>
                     <td>
@@ -102,7 +116,7 @@ ________________________________________________________________________________
 </div>
 <div class="Turing PhD Enrichment Scheme">
 <ul>
-         <li>Excited to receive the Enrichment Placement Award. I will join the Alan Turing PhD Enrichment Scheme in January 2023 ,<a href="https://www.turing.ac.uk/work-turing/studentships/enrichment"> Alan Turing Enrichment 2022-2023</a>, Oct 2022.</li>
+         <li>Excited to receive the Enrichment Placement Award. I will join the Alan Turing PhD Enrichment Scheme in January 2023 ,<a href="https://www.turing.ac.uk/work-turing/studentships/enrichment"> Alan Turing Enrichment 2022-2023</a></li>
       </ul>
 </div>
 <a href="https://clustrmaps.com/site/1biv7"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=qv-SrbWjrImNRLSA9kPE8zvlhd6ggV1tmAR0PlpqNBk&cl=ffffff" /></a>
