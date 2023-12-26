@@ -41,7 +41,7 @@ ________________________________________________________________________________
 			
 		<tr>
                     <td class="noBorder" width="40%">
-                        <img width="320" src="../images/teaser_GAMAFlow" border="0">
+                        <img width="320" src="../images/teaser_GAMAFlow.png" border="0">
                             </td>
                     <td>
 	                    <b>GAMAFLOW: ESTIMATING 3D SCENE FLOW VIA GROUPED ATTENTION AND GLOBAL MOTION AGGREGATION</b>
