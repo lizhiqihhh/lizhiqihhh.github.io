@@ -27,7 +27,7 @@ ________________________________________________________________________________
   <ul> 
   <li> <strong>[Dec 2023]</strong> One paper about scene flow estimation is accepted by IEEE ICASSP 2024!</li>
 	  
-  <li> <strong>[Oct 2023]</strong> One paper about point cloud representation learning is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
+  <li> <strong>[Oct 2023]</strong> One paper about self-supervised point cloud representation learning is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
   </ul>
 </div>
 _______________________________________________________________________________________________________
@@ -38,6 +38,21 @@ ________________________________________________________________________________
  <font face="charter, ariel, &#39;charter&#39;">
             <table cellspacing="0" cellpadding="0" class="noBorder">
                 <tbody>
+			
+		<tr>
+                    <td class="noBorder" width="40%">
+                        <img width="320" src="../images/teaser_GAMAFlow" border="0">
+                            </td>
+                    <td>
+	                    <b>GAMAFLOW: ESTIMATING 3D SCENE FLOW VIA GROUPED ATTENTION AND GLOBAL MOTION AGGREGATION</b>
+	                    <br>
+	                    <strong>Zhiqi Li</strong>,Xiaosong Yang, Jianjun Zhang. 
+	                    <br>
+	                    <em>2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>
+	                    <br>
+			    
+                    </td>
+                </tr>
 		<tr>
                     <td class="noBorder" width="40%">
                         <img width="320" src="../images/Vis_Abstract_002.jpeg" border="0">
