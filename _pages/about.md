@@ -19,7 +19,17 @@ table, th, td {
   border-collapse: collapse;
 }
 </style>
-
+_______________________________________________________________________________________________________
+<h3>
+  <a name="news"></a> News
+</h3>
+<div class="mini">
+  <ul> 
+  <li> <strong>[Dec 2023]</strong> One paper about scene flow estimation is accepted by IEEE ICASSP 2024!</li>
+	  
+  <li> <strong>[Oct 2023]</strong> One paper about point cloud representation learning is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
+  </ul>
+</div>
 _______________________________________________________________________________________________________
 <h3>
   <a name="Publications"></a> Selected Publications
@@ -102,7 +112,7 @@ ________________________________________________________________________________
 </div>
 <div class="Turing PhD Enrichment Scheme">
 <ul>
-         <li>Excited to receive the Enrichment Placement Award. I will join the Alan Turing PhD Enrichment Scheme in January 2023 ,<a href="https://www.turing.ac.uk/work-turing/studentships/enrichment"> Alan Turing Enrichment 2022-2023</a>, Oct 2022.</li>
+         <li>Excited to receive the Enrichment Placement Award. I will join the Alan Turing PhD Enrichment Scheme in January 2023 ,<a href="https://www.turing.ac.uk/work-turing/studentships/enrichment"> Alan Turing Enrichment 2022-2023</a></li>
       </ul>
 </div>
 <a href="https://clustrmaps.com/site/1biv7"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=qv-SrbWjrImNRLSA9kPE8zvlhd6ggV1tmAR0PlpqNBk&cl=ffffff" /></a>
