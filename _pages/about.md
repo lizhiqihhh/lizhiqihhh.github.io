@@ -20,17 +20,19 @@ table, th, td {
 }
 </style>
 _______________________________________________________________________________________________________
-<h3>
-  <a name="news"></a> News
-</h3>
+
+🔥 News
 <div class="mini">
   <ul> 
-  <li> <strong>[Dec 2023]</strong> One paper about scene flow estimation is accepted by IEEE ICASSP 2024!</li>
+  <li> <strong>[Dec 2023]</strong> 🎉🎉 One paper about scene flow estimation is accepted by IEEE ICASSP 2024!</li>
 	  
-  <li> <strong>[Oct 2023]</strong> One paper about self-supervised point cloud representation learning is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
+  <li> <strong>[Oct 2023]</strong> 🎉🎉 One paper about self-supervised point cloud representation learning is accepted by IEEE Transactions on Geoscience and Remote Sensing (TGRS)</li>
   </ul>
 </div>
 _______________________________________________________________________________________________________
+
+
+
 <h3>
   <a name="Publications"></a> Selected Publications
 </h3>
