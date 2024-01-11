@@ -66,7 +66,7 @@ ________________________________________________________________________________
 	                    <br>
 	                    <em>Computer Graphics Forum (in-press), 2023 </em>
 	                    <br>
-			    [<a href="10.1111/cgf.14795">Paper</a>]
+			    [<a href="https://lizhiqihhh.github.io/files/Computer Graphics Forum - 2023 - Li - Deep Learning for Scene Flow Estimation on Point Clouds  A Survey and Prospective.pdf">Paper</a>] 
                     </td>
                 </tr>
 		<tr>
